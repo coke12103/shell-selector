@@ -1,0 +1,9 @@
+{
+  "shells": {
+    "Git bash": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "PowerShell": "powershell",
+    "cmd": "cmd.exe"
+  },
+  "cwd": "C:\\Users\\coke"
+}
+
